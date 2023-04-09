@@ -1,0 +1,30 @@
+
+.dk {
+	padding: 6px;
+	border-radius: 4px;
+	background: orangered;
+	color: white;
+	transform: translateX(102px);
+	outline: none;
+	border: none;
+}
+h5 {
+	width: 400px;
+	padding-left: 20px;
+}
+form {
+	background: #ccc;
+	width: 600px;
+	padding-bottom: 20px;
+}
+h4 {
+	background: orangered;
+	padding: 10px;
+	color: white;
+}
+table {
+	padding-left: 20px;
+}
+.chon_mot {
+	transform: translateX(-42px);
+}
